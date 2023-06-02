@@ -1,0 +1,78 @@
+.body {
+  border: 1px solid black;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqpVzLwN0GbE9ZLEzU8wyn3ssg5zhUx4Nfg&usqp=CAU);
+  background-size: cover;
+  padding: 70px;
+  height: 500px;
+  width: 1250px;
+}  
+
+.text {
+  text-indent: 0px;
+  letter-spacing: 0px;
+  line-height: 1;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: x-large;
+  text-align: center;
+}
+
+.text1 {
+  text-indent: 0px;
+  letter-spacing: 0px;
+  line-height: 1.5;
+  font-style: initial;
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text2 {
+  text-align: center;
+  font-style: italic;
+  color: aqua;
+}
+
+.text3 {
+  text-align: justify;
+  font-family:'Times New Roman', Times, serif;
+  color: aqua;
+}
+
+.image {
+  color: black;
+}    
+
+.foto {
+  align-items: center;
+}    
+
+p b{
+  color: yellow;
+  letter-spacing: 1.5px;
+}
+
+:link {
+  color: yellow;
+}
+
+:visited {
+  color: grey;
+}
+
+.kritik {
+  color: white;
+  text-align: center;
+}
+
+tr:first-child {
+  color: aqua;
+}
+
+tr:last-child {
+  color: yellow;
+}
+
+input:checked {
+  margin-left: 50px;
+}
