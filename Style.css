@@ -79,13 +79,25 @@ input:checked {
 }
 
 @media screen and (max-width: 575px) {
-  .text1 {
-    font-size: 10px;
+  .muka h3 {
+    font-size: 20px;
+  }
+
+  .muka p {
+    font-size: 14px;
   }
 
   .muka img {
     margin-left: 35%;
   }
+
+  .text1 {
+    font-size: 12px;
+  }  
+
+  .text2 {
+    font-size: 20px;
+  }  
 
   .lead {
     font-size: 12px;
